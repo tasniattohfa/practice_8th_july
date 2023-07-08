@@ -1,0 +1,49 @@
+header,footer{
+    height: 100px;
+}
+header {
+    background-color: black;
+}
+.container {
+    overflow: hidden;
+}
+
+.pink {
+    width:33.33%;
+    height: 100px;
+    float:left;
+    background-color:pink ;
+    
+}
+
+.salmonpink {
+    width: 33.33%;
+    height: 100px;
+    float:left;
+    background-color: salmon;
+}
+
+.coral {
+    width:33.33%;
+    height: 100px;
+    float:left;
+    background-color: coral;
+}
+
+.green {
+    width: 50%;
+    height: 100px;
+    float: left;
+    background-color: green;
+}
+
+.blue {
+    width:50%;
+    height: 100px;
+    float: left;
+    background-color: blue;
+}
+
+footer {
+    background-color: darkseagreen;
+}
